@@ -8,7 +8,7 @@ Pajajaran Physical Society is an independent, not-for-profit community in Indone
 
 ## Why PPS exists
 
-We want more people to have the chance to learn, discuss, and develop physics. PPS introduces physics through public outreach, supports learning through education and training, and gives students and researchers a place to discuss ideas and develop their work. You can see our outreach on the [PPS YouTube channel](https://www.youtube.com/channel/UCZ_E0SyCi2waX7vSb8LZ2xg).
+We want more people to have the chance to learn, discuss, and develop physics. PPS introduces physics through public outreach, supports learning through education and training, and gives students and researchers a place to discuss ideas and develop their work. Follow PPS on [Instagram](https://www.instagram.com/pps_society/), [TikTok](https://tiktok.com/@pps_society), and [YouTube](https://www.youtube.com/channel/UCZ_E0SyCi2waX7vSb8LZ2xg).
 
 ## What we do on GitHub
 
